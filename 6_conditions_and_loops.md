@@ -145,3 +145,40 @@ You get special privileges
 
 By ensuring consistent indentation, the nested if-else statement works correctly and avoids indentation errors.
 ```
+
+### if-elif-else Statement
+
+```
+>>> day = "Monday"
+# Assigns the value "Monday" to the variable 'day'.
+
+if day == "Tuesday":
+...     print("Sunny")
+... elif day == "Monday":
+...     print("Cloudy")
+... else:
+...     print("Rainy")
+... 
+Cloudy
+
+#### Step 1: if day == "Tuesday":
+
+    This line checks if the variable day is equal to "Tuesday". Since day is "Monday", the condition is false.
+
+#### Step 2: elif day == "Monday":
+
+    Since the if condition is false, it checks this elif condition. It checks if the variable day is equal to "Monday". Since day is "Monday", the condition is true.
+
+#### Step 3: print("Cloudy")
+
+    This line is executed because the elif condition is true. It prints "Cloudy".
+
+#### Step 4: else:
+
+    This line would be part of the if-elif-else structure. If both the if and elif conditions were false, it would proceed to the else block.
+
+#### Step 5: print("Rainy")
+
+    This line would be executed if both the if and elif conditions were false. It prints "Rainy".
+
+```
