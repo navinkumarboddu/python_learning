@@ -182,3 +182,28 @@ Cloudy
     This line would be executed if both the if and elif conditions were false. It prints "Rainy".
 
 ```
+
+### Logical Operator **and**
+```
+age = 14
+# Assigns the value 14 to the variable 'age'.
+
+if age > 13:
+     print("You are eligible for facebook")
+You are eligible for facebook
+# Explanation:
+# 1. Checks if 'age' is greater than 13. Since 14 is greater than 13, the condition is true.
+# 2. It prints "You are eligible for facebook" because the condition is true.
+
+name = "Bujji"
+# Assigns the value "Bujji" to the variable 'name'.
+
+if age > 13 and name == "Bujji":
+     print("You are eligible for facebook")
+You are eligible for facebook
+# Explanation:
+# 1. Checks two conditions using the `and` operator:
+#    - Checks if 'age' is greater than 13 (True).
+#    - Checks if 'name' is equal to "Bujji" (True).
+# 2. Both conditions are true, so it prints "You are eligible for facebook".
+```
