@@ -26,6 +26,7 @@ for i in range(2, 30):
         counter = 0
         # If 'counter' is 1, it means 'i' is not a prime number.
         # Reset 'counter' to 0 for the next iteration.
+        
 ```
 
 Output::
