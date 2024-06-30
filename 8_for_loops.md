@@ -45,6 +45,7 @@ Oranges
 tup = {2, 34, 68}
 for i in tup:
 print(i)
+
 ```
 
 Explanation:
@@ -65,6 +66,7 @@ Output (example):
 ```
 for i in range(0, 11, 2):
 print(i)
+
 ```
 
 Explanation:
