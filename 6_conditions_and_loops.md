@@ -116,6 +116,7 @@ You get special privileges
 # 1. Checks if 'age' is greater than 13. Since 14 is greater than 13, it enters the first if block.
 # 2. Inside the first if block, it checks if 'name' is "Bob". Since 'name' is "Bob", it prints "You get special privileges".
 # 3. If 'name' was not "Bob", it would print "You are eligible for facebook" from the else block.
+
 ```
 
 ### Explanation of the Corrected Code Block
