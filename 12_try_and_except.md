@@ -16,9 +16,9 @@ Explanation:
 * The **except** block catches any exceptions that occur in the try block.
 * If an error occurs, it prints a message indicating that there was an error and suggests reviewing the code.
 
+
 ```
 Output
 
 Python ran into an error. Please take a look at your code again.
-
 ```
