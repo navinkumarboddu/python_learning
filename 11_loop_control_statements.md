@@ -36,6 +36,7 @@ while counter < 100:
         pass
     print(counter)
     counter = counter + 1
+    
 ```
 
 Explanation:
@@ -62,6 +63,7 @@ for i in "Python":
     if i == "h":
         continue
     print(i)
+    
 ```
 
 Explanation:
