@@ -7,6 +7,7 @@ while counter < 100:
         break
     print(counter)
     counter = counter + 1
+    
 ```
 
 Explanation:
@@ -23,6 +24,7 @@ Output:
 1
 2
 3
+
 ```
 
 ### 2. pass Statement
@@ -54,6 +56,7 @@ Output:
 1
 2
 3
+
 ```
 
 ### 3. continue Statement in a String Loop
