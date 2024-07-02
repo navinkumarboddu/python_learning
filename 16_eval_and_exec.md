@@ -63,9 +63,6 @@ Explanation
 
     ```
     Example Outputs:
-
-python
-
-Hi There
-My name is Bob
-
+        Hi There
+        My name is Bob
+    ```
