@@ -34,3 +34,8 @@ print(sum(list1))  # Output: 98
 2.  max() Function:
     - max(array): For the list ['a', 'b', 'c'], max() returns the highest value, 'c'.
 
+3. min() Function:
+    - min(array): For the list ['a', 'b', 'c', 'A', 'D'], min() returns the smallest value, 'A'.
+
+4. sum() Function:
+    - sum(list1): For the list [23, 24, 25, 26], sum() returns the total sum of the elements, which is 98.
