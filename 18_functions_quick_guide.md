@@ -18,3 +18,9 @@ array = ['a', 'b', 'c', 'A', 'D']
 print(min(array))  # Output: 'A'
 ```
 
+#### Using sum() Function
+```
+list1 = [23, 24, 25, 26]
+print(sum(list1))  # Output: 98
+```
+
