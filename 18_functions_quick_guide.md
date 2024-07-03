@@ -24,3 +24,13 @@ list1 = [23, 24, 25, 26]
 print(sum(list1))  # Output: 98
 ```
 
+#### Explanation
+
+1. len() Function:
+
+    - len([23, 24, 25]): Returns the length of the list [23, 24, 25], which is 3.
+    - len("Avinash"): Returns the length of the string "Avinash", which is 7.
+
+2.  max() Function:
+    - max(array): For the list ['a', 'b', 'c'], max() returns the highest value, 'c'.
+
